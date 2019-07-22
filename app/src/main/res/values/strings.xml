@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+
+    <!-- holds the sensor names-->
+    <string-array name="phone_sensor">
+        <item>Accelerometer</item>
+        <item>Gyroscope</item>
+        <item>Magnetometer</item>
+        <item>Proximity</item>
+        <item>Compass</item>
+        <item>Step Counter</item>
+        <item>GPS</item>
+        <item>Enviromental Sensors</item>
+    </string-array>
+</resources>
